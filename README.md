@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">¡Hola!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, Soy yago Islas</h1></summary>
+    <summary><h1 style="display: inline-block">¡Hola!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, Soy Yago Islas</h1></summary>
   </ul>
 </div>
 <h2>
